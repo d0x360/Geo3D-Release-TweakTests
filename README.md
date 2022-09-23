@@ -88,5 +88,7 @@ Setting "DXIL=1" inside reshade.ini allows convergence to change but could crash
 - The Riftbreaker
 - Zombie Army 4: Dead War
 
-Optonal software like
+Optonal software
 - VRScreenCap (https://github.com/artumino/VRScreenCap)
+
+VRScreenCap uses VRExport addon in DX11 & 12 to expose full resolution SBS images
