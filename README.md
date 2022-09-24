@@ -8,6 +8,9 @@ In the background is my disassembler fix and my assembler.
 The first part of 2022 laid the groundwork for my recent quick progress in ReShade.
 Support me on patreon here: http://patreon.com/Flugan
 
+# Discord
+https://discord.gg/tUcndrSJyd
+
 # Installation
 Start with downloading the latest addon ReShade from http://reshade.me
 
